@@ -41,18 +41,18 @@ import crafttweaker.item.IIngredient;
 		recipes.addShaped("CTrc_lpTank_nerf", <railcraft:boiler_tank_pressure_low> * 4,
  		[[null,ironPlate,null],
   		[null,invarPlate,null],
-  		[<null,ironPlate,null]]);
+  		[null,ironPlate,null]]);
 
         recipes.remove(<railcraft:boiler_tank_pressure_high>);
 		recipes.addShaped("CTrc_hpTank_nerf", <railcraft:boiler_tank_pressure_high> * 4,
  		[[null,steelPlate,null],
   		[null,invarPlate,null],
-  		[<null,steelPlate,null]]);
+  		[null,steelPlate,null]]);
 
         recipes.remove(<railcraft:turbine_blade>);
 		recipes.addShaped("CTrc_turbine_nerf", <railcraft:turbine_blade> * 4,
  		[[null,nickPlate,null],
   		[null,nickPlate,null],
-  		[<null,nickPlate,null]]);
+  		[null,nickPlate,null]]);
 
 	print("---------------RailCraft recipe nerf Fin------------------");

@@ -55,14 +55,14 @@ import crafttweaker.item.IIngredient;
 
 		//Grey
 		recipes.remove(<projectred-core:resource_item:507>);
-		recipes.addShaped("CTilluminar_Grey", <projectred-core:resource_item:507> * 2,
+		recipes.addShaped("CTilluminar_Gray", <projectred-core:resource_item:507> * 2,
  		[[glowstone,null,null],
   		[<ore:dyeGrey>,null,null],
   		[null,null,null]]);	
 
 		//LightGrey
 		recipes.remove(<projectred-core:resource_item:508>);
-		recipes.addShaped("CTilluminar_LightGrey", <projectred-core:resource_item:508> * 2,
+		recipes.addShaped("CTilluminar_LightGray", <projectred-core:resource_item:508> * 2,
  		[[glowstone,null,null],
   		[<ore:dyeLightGrey>,null,null],
   		[null,null,null]]);	

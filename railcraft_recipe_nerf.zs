@@ -34,7 +34,7 @@ import crafttweaker.item.IIngredient;
         recipes.remove(<railcraft:steam_oven>);
 		recipes.addShaped("CTrc_oven_nerf", <railcraft:steam_oven> * 8,
  		[[steelPlate,steelPlate,steelPlate],
-  		[steelPlate,oven,<steelPlate],
+  		[steelPlate,oven,steelPlate],
   		[steelPlate,steelPlate,steelPlate]]);
 
         recipes.remove(<railcraft:boiler_tank_pressure_low>);
